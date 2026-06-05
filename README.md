@@ -7,10 +7,10 @@ This repository contains my CYLab Security Academy lab write-ups for Web Securit
 | No. | Lab Name | Category | Status |
 |-----|----------|----------|--------|
 | 1 | Obedient Cat | General Skills | Completed |
-| 2 | Super SSH | General Skills | In Completed |
-| 3 | what's a net cat? | General Skills | In Completed |
-| 4 | TBD | TBD | In Completed |
-| 5 | TBD | TBD | In Completed |
+| 2 | Super SSH | General Skills | Completed |
+| 3 | what's a net cat? | General Skills | Completed |
+| 4 | TBD | TBD | Completed |
+| 5 | TBD | TBD | Completed |
 
 ## Purpose
 
