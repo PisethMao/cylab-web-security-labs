@@ -19,6 +19,7 @@ The goal of this repository is to document my learning process while solving beg
 | 9   | n0s4n1ty 1        | Web Exploitation | Unrestricted file upload                          | Completed |
 | 10  | head-dump         | Web Exploitation | Exposed heap dump and sensitive data leakage      | Completed |
 | 11  | Most Cookies      | Web Exploitation | Flask session cookie signing and weak secret key  | Completed |
+| 12  | More Cookies      | Web Exploitation | CBC Bit-Flipping vulnerability & Base64 encoding  | Completed |
 
 ## Repository Structure
 
@@ -36,7 +37,9 @@ cylab-web-security/
 │   ├── lab-08-ssti1.md
 │   ├── lab-09-n0s4n1ty-1.md
 │   ├── lab-10-head-dump.md
-│   └── lab-11-most-cookies.md
+│   ├── lab-11-most-cookies.md
+│   └── lab-12-more-cookies.md
 │
 ├── cookies.txt
+├── solve_more_cookies.py
 └── README.md
